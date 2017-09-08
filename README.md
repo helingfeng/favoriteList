@@ -21,10 +21,10 @@
 - [用php-x写php扩展](https://yuerblog.cc/2017/07/11/php-x-extension/)
 - [php-cpp 用C++写PHP扩展的库](http://www.php-cpp.com/documentation/)
 #### 深入分析
-[使用vld查看OPCode](http://gywbd.github.io/posts/2016/2/vld-opcode.html)
-[pecl:vld项目地址](https://pecl.php.net/package/vld)
-[一些深入分析的文字](http://jpauli.github.io/)
-[xhprof图形版](https://github.com/perftools/xhgui)
+- [使用vld查看OPCode](http://gywbd.github.io/posts/2016/2/vld-opcode.html)
+- [pecl:vld项目地址](https://pecl.php.net/package/vld)
+- [一些深入分析的文字](http://jpauli.github.io/)
+- [xhprof图形版](https://github.com/perftools/xhgui)
 
 ### 机器学习相关资源
 - [YouTube上最受欢迎的十大机器学习视频（最新](https://mp.weixin.qq.com/s/c-pLECYveGgFJTevZSvqOA)
