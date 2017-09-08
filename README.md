@@ -85,7 +85,12 @@
 - [一个框架解决几乎所有机器学习问题](http://blog.csdn.net/aliceyangxi1987/article/details/71079448)
 
 ### 效率工具
+- [worktile- 团队协作工作](https://my.worktile.com/dashboard)
 - [Web API文档生成工具apidoc](https://github.com/apidoc/apidoc)
+- [chrome-去广告插件AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
+- [chrome-有道划词插件](https://chrome.google.com/webstore/detail/eopjamdnofihpioajgfdikhhbobonhbb)
+- [chrome-Json工具插件](https://chrome.google.com/webstore/detail/iahnhfdhidomcpggpaimmmahffihkfnj)
+- [chrome-LastPass密码存储插件](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
 
 
 ### 推荐书单
