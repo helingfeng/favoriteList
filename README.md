@@ -6,6 +6,8 @@
 
 ### 设计模式相关
 - [史上最全设计模式导学目录(完整版)](http://blog.csdn.net/lovelion/article/details/17517213)
+- [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+- [PHP设计模式](http://designpatternsphp.readthedocs.io/en/latest/)
 - [PHPer月工作总结之观察者＆装饰器模式](http://tigerb.cn/2017/08/21/summary-august/)
 - [SPL中实现的观察者模式](http://php.net/manual/zh/class.splobserver.php)
 - [php的聚合和组合](http://blog.csdn.net/andybegin/article/details/8724534)
@@ -91,11 +93,16 @@
 - [chrome-有道划词插件](https://chrome.google.com/webstore/detail/eopjamdnofihpioajgfdikhhbobonhbb)
 - [chrome-Json工具插件](https://chrome.google.com/webstore/detail/iahnhfdhidomcpggpaimmmahffihkfnj)
 - [chrome-LastPass密码存储插件](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+- [chrome-bookmark-search搜索收藏夹插件](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
 
 
 ### 推荐书单
 - C++程序设计语言(第1-3部分)(原书第4版)
 - C++程序设计语言(第4部分:标准库)(原书第4版)
+- C++ Primer(中文版)(第5版)
+- 大话数据结构-程杰
+- 大话设计模式-程杰
+- UML大战需求分析-火球
 
 ### 凌乱的一些东西
 - [免费的https证书工具](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
