@@ -102,7 +102,9 @@
 - [chrome-有道划词插件](https://chrome.google.com/webstore/detail/eopjamdnofihpioajgfdikhhbobonhbb)
 - [chrome-Json工具插件](https://chrome.google.com/webstore/detail/iahnhfdhidomcpggpaimmmahffihkfnj)
 - [chrome-LastPass密码存储插件](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+- [chrome-bookmark-search搜索收藏夹插件](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk))
 - [chrome-bookmark-search搜索收藏夹插件](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
+- [vpn](https://github.com/coyove/goflyway)
 
 ### 凌乱的一些东西
 - [免费的https证书工具](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
