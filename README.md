@@ -105,7 +105,7 @@
 - [chrome-bookmark-search搜索收藏夹插件](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk))
 - [chrome-bookmark-search搜索收藏夹插件](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
 - [vpn](https://github.com/coyove/goflyway)
-- [蓝灯lantern](https://github.com/getlantern/lantern)
+- [蓝灯VPN](https://github.com/getlantern/lantern)
 
 ### 凌乱的一些东西
 - [免费的https证书工具](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
