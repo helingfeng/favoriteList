@@ -104,7 +104,7 @@
 - [chrome-LastPass密码存储插件](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
 - [chrome-bookmark-search搜索收藏夹插件](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk))
 - [chrome-bookmark-search搜索收藏夹插件](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
-- [vpn](https://github.com/coyove/goflyway)\
+- [vpn](https://github.com/coyove/goflyway)
 - [蓝灯lantern](https://github.com/getlantern/lantern)
 
 ### 凌乱的一些东西
