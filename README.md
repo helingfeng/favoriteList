@@ -83,6 +83,7 @@
 - [一致性HASH算法详解](http://www.jianshu.com/p/e8fb89bb3a61)
 - [白话经典算法](http://blog.csdn.net/column/details/algorithm-easyword.html)
 - [raft分布式一致性算法](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
+- [raft的cpp实现](https://github.com/darkiri/cpp-raft.git)
 
 ### 系统编程
 - [Linux网络编程“惊群”问题总结](http://www.cnblogs.com/Anker/p/7071849.html?utm_source=tuicool&utm_medium=referral)
