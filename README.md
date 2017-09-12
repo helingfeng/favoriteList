@@ -73,6 +73,7 @@
 
 ### MySQL相关
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
+- [图解 SQL 里的各种 JOIN](https://zhuanlan.zhihu.com/p/29234064)
 
 ### Python相关
 - [php安全编程-你要的这里都有了](http://www.lai18.com/cate/117.html)
