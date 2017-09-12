@@ -98,6 +98,7 @@
 - [MACHINE LEARNING YEARNING-吴恩达](http://www.mlyearning.org/)
 - [动手学深度学习](http://zh.gluon.ai/index.html)
 - [一个框架解决几乎所有机器学习问题](http://blog.csdn.net/aliceyangxi1987/article/details/71079448)
+- [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 
 ### 效率工具
 - [worktile- 团队协作工作](https://my.worktile.com/dashboard)
