@@ -61,6 +61,7 @@
 - [PHP 微型数据分析框架](https://github.com/HWGehring/Archon)
 - [facebook-php-webdriver](https://github.com/facebook/php-webdriver)
 - [php分析工具-phptrace](https://github.com/Qihoo360/phptrace)
+- [可能是国内最火的开源项目 —— PHP 篇](https://my.oschina.net/editorial-story/blog/1535228)
 
 ### C++相关
 - [STL中hashtable,hashset,hashmap,set,map,multiset和multimap的区别](http://blog.csdn.net/wangyuquanliuli/article/details/13744229)
