@@ -120,4 +120,5 @@
 - [HTTP最强资料大全](https://juejin.im/post/58ddb636ac502e0063992865)
 - [快速学习法：一年学完MIT计算机课程](http://www.guokr.com/post/380450/)
 - [八年phper的高级工程师面试之路](https://zhuanlan.zhihu.com/p/27493130)
+- [用 GitHub 能做 12 个很酷的操作](http://www.tuicool.com/articles/fIJrUja)
 
