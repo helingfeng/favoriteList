@@ -72,6 +72,7 @@
 - [玩转算法面试 leetcode题库分门别类详细解析难度高级](http://coding.imooc.com/class/82.html)
 - [跨语言通信协议: Google ProtoBuf](https://juejin.im/post/5938f1785c497d006b613b0d)
 - [CMake手册系列详解](http://www.cnblogs.com/coderfenghc/tag/cmake/)
+- [c++ 智能指针用法详解](http://www.cnblogs.com/TenosDoIt/p/3456704.html)
 
 ### MySQL相关
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
