@@ -75,6 +75,7 @@
 - [跨语言通信协议: Google ProtoBuf](https://juejin.im/post/5938f1785c497d006b613b0d)
 - [CMake手册系列详解](http://www.cnblogs.com/coderfenghc/tag/cmake/)
 - [c++ 智能指针用法详解](http://www.cnblogs.com/TenosDoIt/p/3456704.html)
+- [C++静态库与动态库](http://www.cnblogs.com/skynet/p/3372855.html)
 
 ### MySQL相关
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
