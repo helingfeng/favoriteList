@@ -79,6 +79,7 @@
 - [libzmq c++消息中间件](https://github.com/zeromq/libzmq)
 - [ZeroMQ研究与应用分析](http://www.cnblogs.com/rainbowzc/p/3357594.html)
 - [ZMQ 指南](https://wizardforcel.gitbooks.io/zmq-guide/content/chapter1.html)
+- [C/C++使用ZeroMQ的Router/Dealer模式搭建高性能后台服务框架](http://www.leoox.com/?p=334)
 
 ### MySQL相关
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
