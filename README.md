@@ -81,6 +81,7 @@
 - [CMake手册系列详解](http://www.cnblogs.com/coderfenghc/tag/cmake/)
 - [c++ 智能指针用法详解](http://www.cnblogs.com/TenosDoIt/p/3456704.html)
 - [C++静态库与动态库](http://www.cnblogs.com/skynet/p/3372855.html)
+- [tiny-process-library](https://github.com/eidheim/tiny-process-library)
 
 ### ZeroMQ相关
 - [libzmq c++消息中间件](https://github.com/zeromq/libzmq)
