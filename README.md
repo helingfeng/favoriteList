@@ -41,6 +41,7 @@
 - [php-cpp 用C++写PHP扩展的库](http://www.php-cpp.com/documentation/)
 - [zendapi-C++写PHP扩展的库](https://github.com/qcoreteam/zendapi)
 - [Nginx+Php-fpm 运行原理详解](https://juejin.im/post/58db7d742f301e007e9a00a7)
+
 #### 深入分析
 - [使用vld查看OPCode](http://gywbd.github.io/posts/2016/2/vld-opcode.html)
 - [pecl:vld项目地址](https://pecl.php.net/package/vld)
@@ -80,6 +81,7 @@
 - [ZeroMQ研究与应用分析](http://www.cnblogs.com/rainbowzc/p/3357594.html)
 - [ZMQ 指南](https://wizardforcel.gitbooks.io/zmq-guide/content/chapter1.html)
 - [C/C++使用ZeroMQ的Router/Dealer模式搭建高性能后台服务框架](http://www.leoox.com/?p=334)
+- [基于ZeroMQ的聊天室设计实现](http://blog.csdn.net/zmyer/article/details/18365017)
 
 ### MySQL相关
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
