@@ -10,6 +10,9 @@
 - 程序员的自我修养——链接、装载与库
 - [每天一本编程书，每天进步一点点(重要)](https://salttiger.com/)
 
+### 技术博客
+- [cpp博客](http://www.cppblog.com/)
+
 ### UML相关
 #### 基础
 - [UML实践详细经典教程----用例图、顺序图、状态图、类图、包图、协作图](http://www.uml.org.cn/oobject/201609092.asp?artid=18390)
