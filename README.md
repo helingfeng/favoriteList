@@ -106,6 +106,9 @@
 - [raft分布式一致性算法](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
 - [raft的cpp实现](https://github.com/darkiri/cpp-raft.git)
 
+### GO相关
+- [GO语言圣经](https://www.gitbook.com/book/yar999/gopl-zh/details)
+
 ### 系统编程
 - [Linux网络编程“惊群”问题总结](http://www.cnblogs.com/Anker/p/7071849.html?utm_source=tuicool&utm_medium=referral)
 
