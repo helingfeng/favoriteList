@@ -13,6 +13,7 @@
 
 ### 技术博客
 - [cpp博客](http://www.cppblog.com/)
+- [战魂小筑](http://www.cppblog.com/sunicdavy)
 
 ### UML相关
 #### 基础
