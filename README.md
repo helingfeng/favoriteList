@@ -11,6 +11,9 @@
 - [每天一本编程书，每天进步一点点(重要)](https://salttiger.com/)
 - [c++ best practices](https://www.gitbook.com/book/lefticus/cpp-best-practices/details)
 
+### 影视剧
+- how i met your mother
+
 ### 技术博客
 - [cpp博客](http://www.cppblog.com/)
 - [战魂小筑](http://www.cppblog.com/sunicdavy)
