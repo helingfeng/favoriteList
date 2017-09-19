@@ -108,6 +108,7 @@
 
 ### GO相关
 - [GO语言圣经](https://www.gitbook.com/book/yar999/gopl-zh/details)
+- [用GO构建web](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 
 ### 系统编程
 - [Linux网络编程“惊群”问题总结](http://www.cnblogs.com/Anker/p/7071849.html?utm_source=tuicool&utm_medium=referral)
