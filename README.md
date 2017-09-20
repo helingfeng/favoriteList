@@ -13,6 +13,7 @@
 - 程序员的自我修养——链接、装载与库
 - [每天一本编程书，每天进步一点点(重要)](https://salttiger.com/)
 - [c++ best practices](https://www.gitbook.com/book/lefticus/cpp-best-practices/details)
+- [redis源码分析](http://blog.csdn.net/Androidlushangderen/article/category/2647211)
 
 ### 技术博客
 - [cpp博客](http://www.cppblog.com/)
