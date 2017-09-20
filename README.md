@@ -1,4 +1,7 @@
 ## 一个收藏夹
+### 影视剧
+- how i met your mother
+
 ### 推荐书单
 - C++程序设计语言(第1-3部分)(原书第4版)
 - C++程序设计语言(第4部分:标准库)(原书第4版)
@@ -10,14 +13,11 @@
 - 程序员的自我修养——链接、装载与库
 - [每天一本编程书，每天进步一点点(重要)](https://salttiger.com/)
 - [c++ best practices](https://www.gitbook.com/book/lefticus/cpp-best-practices/details)
-- [letcode解题](http://blog.csdn.net/liuchonge)
-
-### 影视剧
-- how i met your mother
 
 ### 技术博客
 - [cpp博客](http://www.cppblog.com/)
 - [战魂小筑](http://www.cppblog.com/sunicdavy)
+- [letcode解题](http://blog.csdn.net/liuchonge)
 
 ### UML相关
 #### 基础
