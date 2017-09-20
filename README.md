@@ -18,6 +18,7 @@
 - [cpp博客](http://www.cppblog.com/)
 - [战魂小筑](http://www.cppblog.com/sunicdavy)
 - [letcode解题](http://blog.csdn.net/liuchonge)
+- [redis中文网](http://www.redis.cn/)
 
 ### UML相关
 #### 基础
