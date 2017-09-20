@@ -10,6 +10,7 @@
 - 程序员的自我修养——链接、装载与库
 - [每天一本编程书，每天进步一点点(重要)](https://salttiger.com/)
 - [c++ best practices](https://www.gitbook.com/book/lefticus/cpp-best-practices/details)
+- [letcode解题](http://blog.csdn.net/liuchonge)
 
 ### 影视剧
 - how i met your mother
