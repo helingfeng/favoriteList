@@ -154,4 +154,5 @@
 - [phxpaxos](https://github.com/Tencent/phxpaxos/blob/master/README.zh_CN.md)
 - [说说OKR和KPI](http://mp.weixin.qq.com/s?__biz=MjM5MzkxODQ5NA==&mid=2651442984&idx=1&sn=b307d22bb3795c8b683d7c167fdc5d52&chksm=bd72d4598a055d4fb19401f39450bd6dafffc06ca806075b6b13d7b71aa71d2446fb49d24023&mpshare=1&scene=23&srcid=0913NmyKYo4OV1cq67LVBwJ1#rd)''
 - [C++ 11 多线程视频](http://study.163.com/course/courseMain.htm?courseId=1002975002)
+- [基于 HTM5 的在线涂鸦工具YYGraft](https://gitee.com/blackfox/scrawl)
 
