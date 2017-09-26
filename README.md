@@ -93,6 +93,8 @@
 - [如何读懂火焰图？](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
 - [Perf -- Linux下的系统性能调优工具-1](https://www.ibm.com/developerworks/cn/linux/l-cn-perf1/index.html)
 - [Perf -- Linux下的系统性能调优工具-2](https://www.ibm.com/developerworks/cn/linux/l-cn-perf2/index.html)
+- [gprof](https://sourceware.org/binutils/docs/gprof/)
+- [linux下利用valgrind工具进行内存泄露检测和性能分析](http://blog.csdn.net/sunmenggmail/article/details/10543483)
 
 
 ### ZeroMQ相关
