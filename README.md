@@ -96,6 +96,7 @@
 - [gprof](https://sourceware.org/binutils/docs/gprof/)
 - [linux下利用valgrind工具进行内存泄露检测和性能分析](http://blog.csdn.net/sunmenggmail/article/details/10543483)
 - [benchmark(google)](https://github.com/google/benchmark)
+- [一个简单易用的C++ benchmark库](http://airekans.github.io/cpp/2015/04/18/google-benchmark)
 
 
 ### ZeroMQ相关
