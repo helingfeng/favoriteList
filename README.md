@@ -90,6 +90,10 @@
 - [C++静态库与动态库](http://www.cnblogs.com/skynet/p/3372855.html)
 - [tiny-process-library](https://github.com/eidheim/tiny-process-library)
 - [360多进程库mpic](https://github.com/Qihoo360/mpic)
+- [如何读懂火焰图？](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
+- [Perf -- Linux下的系统性能调优工具-1](https://www.ibm.com/developerworks/cn/linux/l-cn-perf1/index.html)
+- [Perf -- Linux下的系统性能调优工具-2](https://www.ibm.com/developerworks/cn/linux/l-cn-perf2/index.html)
+
 
 ### ZeroMQ相关
 - [libzmq c++消息中间件](https://github.com/zeromq/libzmq)
