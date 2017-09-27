@@ -172,4 +172,5 @@
 ### 代试用的小玩意
 - ipad做笔记软件：GoodReader、Notes Plus、remarks、notability、PDF expert
 - ipad做笔记硬件：DAGi电容笔、IPAD
+- [求一款可以在iPad上使用的PDF阅读软件，可以圈画做笔记的那种，不知道有没有。?](https://www.zhihu.com/question/35403556)
 
