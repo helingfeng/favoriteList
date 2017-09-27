@@ -170,6 +170,6 @@
 - [基于 HTM5 的在线涂鸦工具YYGraft](https://gitee.com/blackfox/scrawl)
 
 ### 代试用的小玩意
-- ipad做笔记软件：GoodReader、Notes Plus、remarks、notability
+- ipad做笔记软件：GoodReader、Notes Plus、remarks、notability、PDF expert
 - ipad做笔记硬件：DAGi电容笔、IPAD
 
