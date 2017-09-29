@@ -50,6 +50,7 @@
 - [PHP7内核剖析](https://github.com/pangudashu/php7-internal)
 - [深入理解PHP内核](http://www.php-internals.com/)
 - [php内核(英文版)](http://www.phpinternalsbook.com)
+- [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/preface.md)
 - [VS2012开发调试PHP扩展](http://blog.csdn.net/a600423444/article/details/12720543)
 - [clion调试php扩展](http://blog.csdn.net/baixiaoshi/article/details/73744280)
 - [用qt creator搭建开发、调试php扩展的环境](https://segmentfault.com/a/1190000009828172)
