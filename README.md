@@ -63,6 +63,7 @@
 - [pecl:vld项目地址](https://pecl.php.net/package/vld)
 - [一些深入分析的文字](http://jpauli.github.io/)
 - [xhprof图形版(xhgui)](https://github.com/perftools/xhgui)
+- [Tideways(xhprof的php7版本)](https://github.com/tideways/php-profiler-extension)
 - [gdbui](https://github.com/cs01/gdbgui)
 - [PHP 的错误和异常处理机制(原理)](http://wulfric.me/2017/08/php-error-exception/)
 - [PHP 的数据结构扩展](http://wulfric.me/2017/08/php-data-structures/)
