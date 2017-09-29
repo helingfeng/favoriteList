@@ -64,6 +64,7 @@
 - [一些深入分析的文字](http://jpauli.github.io/)
 - [xhprof图形版(xhgui)](https://github.com/perftools/xhgui)
 - [Tideways(xhprof的php7版本)](https://github.com/tideways/php-profiler-extension)
+- [PHP 性能追踪及分析工具 xhprof 的安装与使用](https://laravel-china.org/topics/3142/php-performance-tracking-and-analysis-tool-xhprof-installation-and-use)
 - [gdbui](https://github.com/cs01/gdbgui)
 - [PHP 的错误和异常处理机制(原理)](http://wulfric.me/2017/08/php-error-exception/)
 - [PHP 的数据结构扩展](http://wulfric.me/2017/08/php-data-structures/)
