@@ -110,6 +110,9 @@
 - [benchmark(google)](https://github.com/google/benchmark)
 - [一个简单易用的C++ benchmark库](http://airekans.github.io/cpp/2015/04/18/google-benchmark)
 
+### 编译相关
+- [CMake学习笔记(1)——用CMake编译一个hello world程序](http://blog.csdn.net/Bobsweetie/article/details/51762993)
+
 
 ### ZeroMQ相关
 - [libzmq c++消息中间件](https://github.com/zeromq/libzmq)
