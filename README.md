@@ -55,6 +55,7 @@
 - [VS2012开发调试PHP扩展](http://blog.csdn.net/a600423444/article/details/12720543)
 - [clion调试php扩展](http://blog.csdn.net/baixiaoshi/article/details/73744280)
 - [用qt creator搭建开发、调试php扩展的环境](https://segmentfault.com/a/1190000009828172)
+- [将已有makefile工程导入到eclipse](http://blog.csdn.net/scape1989/article/details/24610655)
 - [用php-x写php扩展](https://yuerblog.cc/2017/07/11/php-x-extension/)
 - [php-cpp 用C++写PHP扩展的库](http://www.php-cpp.com/documentation/)
 - [zendapi-C++写PHP扩展的库](https://github.com/qcoreteam/zendapi)
