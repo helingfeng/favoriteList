@@ -62,7 +62,7 @@
 - [使用vld查看OPCode](http://gywbd.github.io/posts/2016/2/vld-opcode.html)
 - [pecl:vld项目地址](https://pecl.php.net/package/vld)
 - [一些深入分析的文字](http://jpauli.github.io/)
-- [xhprof图形版](https://github.com/perftools/xhgui)
+- [xhprof图形版(xhgui)](https://github.com/perftools/xhgui)
 - [gdbui](https://github.com/cs01/gdbgui)
 - [PHP 的错误和异常处理机制(原理)](http://wulfric.me/2017/08/php-error-exception/)
 - [PHP 的数据结构扩展](http://wulfric.me/2017/08/php-data-structures/)
