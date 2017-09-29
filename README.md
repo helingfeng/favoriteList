@@ -25,6 +25,7 @@
 - [战魂小筑](http://www.cppblog.com/sunicdavy)
 - [letcode解题](http://blog.csdn.net/liuchonge)
 - [redis中文网](http://www.redis.cn/)
+- [nikic](http://nikic.github.io/)
 
 ### UML相关
 #### 基础
