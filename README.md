@@ -69,6 +69,7 @@
 - [PHP 的错误和异常处理机制(原理)](http://wulfric.me/2017/08/php-error-exception/)
 - [PHP 的数据结构扩展](http://wulfric.me/2017/08/php-data-structures/)
 - [nginx、swoole高并发原理初探](http://mp.weixin.qq.com/s/WMi7LZj0bqXa72V9fRhwCA)
+- [php cmake](https://wiki.php.net/internals/cmake)
 
 #### 高级应用
 - [JsonSerializable接口](http://www.laruence.com/2011/10/10/2204.html)
