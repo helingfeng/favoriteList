@@ -174,6 +174,7 @@
 - [vpn](https://github.com/coyove/goflyway)
 - [蓝灯VPN](https://github.com/getlantern/lantern)
 - [word贴代码工具](http://www.planetb.ca/syntax-highlight-word)
+- [我是如何重构整个研发项目，促进自动化运维DevOps的落地？](https://juejin.im/post/59e1d92d51882578db27c2e1?utm_source=gold_browser_extension)
 
 ### 凌乱的一些东西
 - [免费的https证书工具](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
