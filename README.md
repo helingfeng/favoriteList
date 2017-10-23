@@ -35,6 +35,11 @@
 - [redis中文网](http://www.redis.cn/)
 - [nikic](http://nikic.github.io/)
 
+### 可信任的mac软件下载站
+- [xclient.info](http://www.xclient.info/)
+- [macappstore](https://www.macappstore.net/)
+
+
 ### UML相关
 #### 基础
 - [UML实践详细经典教程----用例图、顺序图、状态图、类图、包图、协作图](http://www.uml.org.cn/oobject/201609092.asp?artid=18390)
