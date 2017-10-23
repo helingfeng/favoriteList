@@ -38,6 +38,7 @@
 ### 可信任的mac软件下载站
 - [xclient.info](http://www.xclient.info/)
 - [macappstore](https://www.macappstore.net/)
+- [史蒂芬周](http://www.sdifen.com/)
 
 
 ### UML相关
