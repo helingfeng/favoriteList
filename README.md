@@ -39,6 +39,7 @@
 - [xclient.info](http://www.xclient.info/)
 - [macappstore](https://www.macappstore.net/)
 - [史蒂芬周](http://www.sdifen.com/)
+- [waitsun](https://www.waitsun.com/)
 
 
 ### UML相关
