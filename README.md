@@ -45,6 +45,7 @@
 - [iView](https://www.iviewui.com/)
 - [iView Admin](https://gitee.com/icarusion/iview-admin)
 - [antd-admin](https://github.com/zuiidea/antd-admin)
+- [vue-element-admin](https://gitee.com/mirrors/vue-element-admin)
 
 
 ### UML相关
