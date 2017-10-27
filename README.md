@@ -209,3 +209,9 @@
 - ipad做笔记硬件：DAGi电容笔、IPAD
 - [求一款可以在iPad上使用的PDF阅读软件，可以圈画做笔记的那种，不知道有没有。?](https://www.zhihu.com/question/35403556)
 
+
+#### ajax跨域原理
+- http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html
+- http://blog.csdn.net/zmx729618/article/details/53319383
+- http://blog.csdn.net/u013084331/article/details/51114288
+
