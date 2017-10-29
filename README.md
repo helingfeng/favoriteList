@@ -203,6 +203,7 @@
 - Makefile support(Clion)
 - [实现协程的另一种思路——关于协程的思考](http://gad.qq.com/article/detail/26392)
 - [CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)
+- [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 
 ### 代试用的小玩意
 - ipad做笔记软件：GoodReader、Notes Plus、remarks、notability、PDF expert
