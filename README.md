@@ -208,6 +208,8 @@
 - [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 - [Redis Bitmaps很有用的东西](https://segmentfault.com/a/1190000009841792)
 - [基于Redis bitmap实现签到功能，redisbitmap](http://www.bkjia.com/sjkqy/930539.html)
+- [Bitmap的秘密](http://www.infoq.com/cn/articles/the-secret-of-bitmap/)
+- [Redis BitMap介绍及使用](https://my.oschina.net/zhenghuilee/blog/603442)
 
 ### 代试用的小玩意
 - ipad做笔记软件：GoodReader、Notes Plus、remarks、notability、PDF expert
