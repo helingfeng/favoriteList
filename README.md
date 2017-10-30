@@ -211,6 +211,7 @@
 - [基于Redis bitmap实现签到功能，redisbitmap](http://www.bkjia.com/sjkqy/930539.html)
 - [Bitmap的秘密](http://www.infoq.com/cn/articles/the-secret-of-bitmap/)
 - [Redis BitMap介绍及使用](https://my.oschina.net/zhenghuilee/blog/603442)
+- 少儿编程：scratch
 
 ### 代试用的小玩意
 - ipad做笔记软件：GoodReader、Notes Plus、remarks、notability、PDF expert
