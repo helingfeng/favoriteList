@@ -212,6 +212,7 @@
 - [Bitmap的秘密](http://www.infoq.com/cn/articles/the-secret-of-bitmap/)
 - [Redis BitMap介绍及使用](https://my.oschina.net/zhenghuilee/blog/603442)
 - 少儿编程：scratch
+- [访问一个网站的过程](http://blog.csdn.net/zbuger/article/details/50938730)
 
 ### 代试用的小玩意
 - ipad做笔记软件：GoodReader、Notes Plus、remarks、notability、PDF expert
