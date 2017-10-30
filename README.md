@@ -36,6 +36,7 @@
 - [letcode解题](http://blog.csdn.net/liuchonge)
 - [redis中文网](http://www.redis.cn/)
 - [nikic](http://nikic.github.io/)
+- [blog](https://zhaojingxian.cn/)
 
 ### 可信任的mac软件下载站
 - [xclient.info](http://www.xclient.info/)
