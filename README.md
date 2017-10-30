@@ -14,6 +14,7 @@
 - 书籍: 赖世雄美语从头学系列:新版赖氏经典英语语法
 - [赖世雄-美式音标](https://www.youtube.com/playlist?list=PL_E_AE2ALnXh2uqlzUH6r9NQ5iAlxShQf)
 - [每日英语听力](https://itunes.apple.com/cn/app/mei-ri-ying-yu-ting-li-ying/id734383760?mt=12)
+- [有什么优秀的儿童英语教学APP推荐吗？](https://www.zhihu.com/question/21331287)
 
 ### 推荐书单
 - C++程序设计语言(第1-3部分)(原书第4版)
