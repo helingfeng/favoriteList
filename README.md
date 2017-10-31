@@ -215,6 +215,7 @@
 - 少儿编程：scratch
 - [访问一个网站的过程](http://blog.csdn.net/zbuger/article/details/50938730)
 - [近期面试求职的经历和感受](http://www.raychase.net/4576?utm_source=tuicool&utm_medium=referral)
+- [Chrome调试折腾记_(2)JS断点调试技巧](http://blog.csdn.net/crper/article/details/50722753)
 
 ### 代试用的小玩意
 - ipad做笔记软件：GoodReader、Notes Plus、remarks、notability、PDF expert
