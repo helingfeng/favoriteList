@@ -37,6 +37,7 @@
 - [redis中文网](http://www.redis.cn/)
 - [nikic](http://nikic.github.io/)
 - [blog](https://zhaojingxian.cn/)
+- [四火的唠叨](http://www.raychase.net/)
 
 ### 可信任的mac软件下载站
 - [xclient.info](http://www.xclient.info/)
@@ -213,6 +214,7 @@
 - [Redis BitMap介绍及使用](https://my.oschina.net/zhenghuilee/blog/603442)
 - 少儿编程：scratch
 - [访问一个网站的过程](http://blog.csdn.net/zbuger/article/details/50938730)
+- [近期面试求职的经历和感受](http://www.raychase.net/4576?utm_source=tuicool&utm_medium=referral)
 
 ### 代试用的小玩意
 - ipad做笔记软件：GoodReader、Notes Plus、remarks、notability、PDF expert
